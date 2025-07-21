@@ -1,3 +1,5 @@
+Easy
+--1-task
 CREATE TABLE Employees (
     EmpID INT,
     Name VARCHAR(50),
